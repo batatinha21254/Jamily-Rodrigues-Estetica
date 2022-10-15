@@ -1,0 +1,103 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.img {
+    margin: 0%;
+    background-color: #f3fffe;
+}
+
+
+
+.trabalhos {
+    font-family: fonteprincipal;
+    font-size: small;
+    color: #a24a3c;
+
+}
+
+.trabalhos2 {
+    font-family: fonteprincipal;
+    font-size: xx-small;
+    color: #a24a3c;
+}
+
+.trabalhos3 {
+    font-family: fonteprincipal;
+    font-size: small;
+    color: #a24a3c;
+}
+
+.frasechave1 {
+    padding: 5 0%;
+}
+
+
+
+
+.trabalho {
+    display: flex;
+    flex-direction: column;
+    width: 170px;
+    padding: 25 0%;
+}
+
+main {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    background-color: #f3fffe;
+}
+
+.desenho2 {
+    display: flex;
+    justify-content: center;
+    padding: 80 5%;
+    background-color: #f3fffe;
+}
+
+nav {
+    background-color: #26b3a3;
+    height: 90px;
+    padding: 18 2%;
+    display: flex;
+    justify-content: center;
+
+}
+
+.preço {
+    font-style: fonteprincipal2;
+    font-size: small;
+}
+
+.frasechave {
+    font-style: fonteprincipal;
+    font-size: small;
+}
+
+.linha {
+    width: 100%;
+    height: 10px;
+    color: #a24a3c;
+}
+
+.linha {
+    width: 100%;
+    height: 10px;
+    background-color: #a24a3c;
+}
+
+span {
+    width: 100%;
+    height: 20px;
+    background-color: white;
+    padding: 15 3%;
+    font-size: small;
+    display: flex;
+}
+
+.preço {
+    font-style: fonteprincipal2;
+}
